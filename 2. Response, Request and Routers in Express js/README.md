@@ -1,0 +1,1 @@
+In this we have discussed about Response, Request and Routers and also made api and did get, put, delete and post requests and also installed nodemon and worked with it to automatically start the server when any changes are noticed.
